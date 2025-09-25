@@ -24,14 +24,14 @@ client_logos:
 
 {{< hero 
     headline="Global Population and Health Association"
-    sub_headline="GPHA is an international nonprofit organization dedicated to advancing research, dialogue, and policy innovation on the intersections of population dynamics and human health."
+    sub_headline="The Global Population and Health Association (GPHA) is an international, non-profit organization dedicated to advancing research, dialogue, and cooperation on issues related to population dynamics and public health. GPHA serves as a global platform connecting scholars, policymakers, practitioners, and institutions to address emerging challenges and opportunities at the intersection of population change and health."
     primary_button_text="Learn More"
     primary_button_url="about"
     secondary_button_text="Join Us"
     secondary_button_url="join-us"
-    hero_image="/images/hero-dashboard.svg"
+    hero_image="/images/team.png"
     gradient-from="#dbeafe"
-    gradient-to="#f3e8ff"
+    gradient-to="#e7eff6"
     gradient-angle="180"
 >}}
 
@@ -39,29 +39,29 @@ client_logos:
 
 {{< features-section 
     title="Our Mission & Approach"
-    description="GPHA promotes equitable, evidence-based solutions to global challenges at the nexus of population change and health through research, collaboration, and policy innovation."
+    description="GPHA focuses on population dynamics and social transformation, encompassing migration, integration, and global mobility, addressing health, inequality, and society, and advancing change through social policy, governance, and targeted interventions."
 >}}
 
 {{< feature
-    title="Research & Evidence"
+    title="Research"
     description="We conduct cutting-edge research on population dynamics, demographic transitions, and their impact on global health outcomes, providing data-driven insights for policymakers."
     badge="Research"
-    badgeColor="#0891b2"
-    image="/images/feature-1.svg"
+    badgeColor="#115993"
+    image="/images/area-all.svg"
     buttonText="Explore Research"
-    buttonLink="publications"
-    features="Demographic analysis,Health outcome studies,Policy evaluation,Data collection & analysis"
+    buttonLink="research"
+    features="Population Dynamics and Social Transformation, Migration Integration and Global Mobility, Health Inequality and Society, Social Policy and Interventions"
     imagePosition="right"
 >}}
 
 {{< feature
-    title="Events"
+    title="News & Events"
     description="We bring together researchers, policymakers, healthcare professionals, and communities to create sustainable solutions that address population health challenges worldwide."
     badge="Partnership"
-    badgeColor="#7c3aed"
+    badgeColor="#1363a3"
     image="/images/feature-2.svg"
-    buttonText="Our Partners"
-    buttonLink="join-us"
+    buttonText="News"
+    buttonLink="news"
     features="International partnerships,Multi-sector engagement,Knowledge sharing,Capacity building"
     imagePosition="left"
 >}}
@@ -70,10 +70,10 @@ client_logos:
     title="Policy Innovation"
     description="We translate research into actionable policy recommendations, working with governments and organizations to implement evidence-based interventions that improve health outcomes."
     badge="Impact"
-    badgeColor="#16a34a"
+    badgeColor="#2b73ac"
     image="/images/feature-3.svg"
     buttonText="Policy Work"
-    buttonLink="news"
+    buttonLink="policy"
     features="Policy briefs,Government advisory,Implementation support,Impact assessment"
     imagePosition="right"
 >}}
@@ -81,12 +81,6 @@ client_logos:
 
 {{< /features-section >}}
 
-{{< testimonials 
-    title="Voices from the Field"
-    description="Hear from our partners, researchers, and beneficiaries about GPHA's impact on global health and population dynamics."
-    animate="true"
-    background-color="#f8fafc"
->}}
 
 {{< client-logos animate="true" >}}
 

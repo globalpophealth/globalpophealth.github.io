@@ -94,20 +94,14 @@ enableGitInfo = true      # Enable Git info for lastmod
     weight = 2
   [[menu.main]]
     name = "Research"
+    url = "/research"
     weight = 3
-    [menu.main.params]
-      has_submenu = true
-      submenu = [
-        { name = "Publications", url = "/publications" },
-        { name = "Research Areas", url = "/areas" }
-      ]
-  
   [[menu.main]]
     name = "News & Events"
+    url = "/news"
+    weight = 4
+  [[menu.main]]
+    name = "Policy Impacts"
+    url = "/policy"
     weight = 5
-    [menu.main.params]
-      has_submenu = true
-      submenu = [
-        { name = "Latest News", url = "/news" },
-      ]
   

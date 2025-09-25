@@ -1,174 +1,104 @@
 ---
-title: "News & Policy Impact"
+title: "News & Events"
 layout: "company"
-description: "Latest research insights and policy recommendations from the Global Population and Health Association"
+description: "Latest news & events from the Global Population and Health Association"
 ---
 
-{{< section-container class="py-16 bg-gradient-to-b from-white to-gray-50" >}}
+{{< section-container class="py-16 bg-gradient-to-b from-primary-50 to-white" >}}
     <div class="max-w-6xl mx-auto text-center">
-        <h1 class="text-4xl md:text-5xl font-bold mb-6 text-gray-900">News & Policy Impact</h1>
-        <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-            Translating cutting-edge research into actionable policy recommendations for governments, organizations, and communities worldwide
+        <h1 class="text-4xl md:text-5xl font-bold mb-6 text-gray-900">News & Events</h1>
+        <p class="text-xl text-neutral-600 max-w-3xl mx-auto">
+            Stay updated with our latest research findings, upcoming conferences, and global initiatives in population health and social transformation
         </p>
     </div>
 {{< /section-container >}}
 
 {{< section-container class="py-12" >}}
     <div class="max-w-6xl mx-auto">
-        <!-- Featured Story -->
+        <!-- Featured Research - Simplified -->
         <div class="mb-16">
-            <div class="bg-gradient-to-r from-purple-600 to-blue-600 rounded-2xl p-1">
-                <div class="bg-white rounded-2xl p-8">
-                    <div class="flex items-center mb-4">
-                        <span class="px-3 py-1 bg-red-100 text-red-700 rounded-full text-sm font-medium">FEATURED</span>
-                        <span class="ml-3 text-gray-500">September 2025</span>
-                    </div>
-                    <h2 class="text-3xl font-bold mb-4 text-gray-900">One Day of Work Per Week Sufficient for Mental Health Benefits</h2>
-                    
-                    <div class="grid md:grid-cols-2 gap-8">
-                        <div>
-                            <p class="text-gray-700 mb-4">
-                                Our groundbreaking research, conducted with the University of Cambridge, has redefined understanding of the relationship between work and wellbeing. The study of over 70,000 UK residents reveals that just 8 hours of work per week provides the full mental health benefits of employment.
-                            </p>
-                            <div class="bg-purple-50 p-4 rounded-lg mb-4">
-                                <h3 class="font-semibold text-purple-900 mb-2">Key Finding:</h3>
-                                <p class="text-purple-800">Moving from unemployment to just 8 hours of paid work per week reduces mental health problems by 30% - with no additional benefits from working more hours.</p>
-                            </div>
-                            <p class="text-sm text-gray-600 italic">Published in Social Science & Medicine</p>
-                        </div>
-                        <div>
-                            <h3 class="text-xl font-semibold mb-3 text-gray-800">Policy Implications:</h3>
-                            <ul class="space-y-2 text-gray-700">
-                                <li class="flex items-start">
-                                    <span class="text-purple-600 mr-2">▸</span>
-                                    <span>Challenges the 40-hour workweek standard</span>
-                                </li>
-                                <li class="flex items-start">
-                                    <span class="text-purple-600 mr-2">▸</span>
-                                    <span>Supports redistribution of work in automated economies</span>
-                                </li>
-                                <li class="flex items-start">
-                                    <span class="text-purple-600 mr-2">▸</span>
-                                    <span>Informs universal basic income debates</span>
-                                </li>
-                                <li class="flex items-start">
-                                    <span class="text-purple-600 mr-2">▸</span>
-                                    <span>Guides mental health and employment policies</span>
-                                </li>
-                            </ul>
-                            <div class="mt-4">
-                                <a href="https://www.cam.ac.uk/stories/employment-dosage" target="_blank" class="text-purple-600 hover:text-purple-700 font-medium">
-                                    Read more at Cambridge University →
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!-- Singapore FWA Study -->
-        <div class="mb-12">
-            <div class="bg-white rounded-xl shadow-lg p-6">
-                <div class="flex items-center mb-4">
-                    <span class="px-3 py-1 bg-green-100 text-green-700 rounded-full text-sm font-medium">BREAKING RESEARCH</span>
-                    <span class="ml-3 text-gray-500">February 2025</span>
-                </div>
-                
-                <h3 class="text-xl font-semibold mb-4 text-gray-800">Flexible Work Arrangements Boost Fertility Intentions in Singapore</h3>
-                
-                <div class="grid md:grid-cols-2 gap-6">
-                    <div>
-                        <p class="text-gray-700 mb-4">
-                            Our latest study with NUS reveals that flexible working arrangements significantly increase young Singaporeans' intentions to have children - offering a potential solution to declining birth rates across Asia.
-                        </p>
-                        
-                        <div class="bg-green-50 p-4 rounded-lg">
-                            <h4 class="font-semibold text-green-900 mb-2">Key Findings:</h4>
-                            <ul class="space-y-1 text-green-800 text-sm">
-                                <li>• FWAs increase fertility intentions among unmarried workers</li>
-                                <li>• Effects strongest for women and professional occupations</li>
-                                <li>• Work-family conflict identified as key mediator</li>
-                            </ul>
-                        </div>
-                    </div>
-                    
-                    <div>
-                        <h4 class="font-semibold mb-3 text-gray-800">Policy Recommendations:</h4>
-                        <ul class="space-y-2 text-gray-700 text-sm">
-                            <li class="flex items-start">
-                                <span class="text-green-600 mr-2">▸</span>
-                                <span>Mandate FWA options for all eligible positions</span>
-                            </li>
-                            <li class="flex items-start">
-                                <span class="text-green-600 mr-2">▸</span>
-                                <span>Target support for young professionals</span>
-                            </li>
-                            <li class="flex items-start">
-                                <span class="text-green-600 mr-2">▸</span>
-                                <span>Address work-family conflict through policy design</span>
-                            </li>
-                        </ul>
-                        
-                        <div class="mt-4 text-sm text-gray-600">
-                            <p>Published in European Journal of Population</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-        <!-- Media Coverage -->
-        <div class="mb-12">
-            <h2 class="text-2xl font-bold mb-6 text-gray-900">In the Media</h2>
+            <h2 class="text-2xl font-bold mb-6 text-neutral-900">Featured Research</h2>
             
-            <div class="grid md:grid-cols-3 gap-6">
-                <div class="bg-white rounded-lg shadow-md p-4">
-                    <p class="font-semibold text-gray-800 mb-2">BBC Worklife</p>
-                    <p class="text-sm text-gray-600">"How widespread could the four-day workweek really be?"</p>
-                    <a href="#" class="text-purple-600 text-sm hover:underline">Read article →</a>
+            <div class="bg-white rounded-xl shadow-lg overflow-hidden">
+                <div class="bg-gradient-to-r from-primary-600 to-primary-700 p-6">
+                    <div class="flex flex-wrap items-center gap-3 mb-3">
+                        <span class="px-3 py-1 bg-white/20 text-white rounded-full text-sm font-medium">NEW RESEARCH</span>
+                        <span class="text-white/90 text-sm">The British Journal of Sociology • 2025</span>
+                    </div>
+                    <h3 class="text-2xl font-bold text-white">Dependence and Precarity in the Gig Economy</h3>
+                    <p class="text-white/90 mt-2">A Longitudinal Analysis of Platform Work and Mental Distress</p>
                 </div>
-                <div class="bg-white rounded-lg shadow-md p-4">
-                    <p class="font-semibold text-gray-800 mb-2">Cambridge University</p>
-                    <p class="text-sm text-gray-600">"One day of paid work sufficient for mental health"</p>
-                    <a href="#" class="text-purple-600 text-sm hover:underline">Read article →</a>
-                </div>
-                <div class="bg-white rounded-lg shadow-md p-4">
-                    <p class="font-semibold text-gray-800 mb-2">NUS News</p>
-                    <p class="text-sm text-gray-600">"FWAs linked to fertility intentions in Singapore"</p>
-                    <a href="#" class="text-purple-600 text-sm hover:underline">Read article →</a>
+                
+                <div class="p-6">
+                    <div class="flex flex-wrap gap-2 mb-4">
+                        <span class="text-sm text-neutral-600">Ya Guo</span>
+                        <span class="text-neutral-400">•</span>
+                        <span class="text-sm text-neutral-600">Sizhan Cui</span>
+                        <span class="text-neutral-400">•</span>
+                        <span class="text-sm text-neutral-600">Zhuofei Lu</span>
+                        <span class="text-neutral-400">•</span>
+                        <span class="text-sm text-neutral-600">Senhu Wang</span>
+                    </div>
+                    
+                    <div class="bg-warning-light/10 border-l-4 border-warning p-4 rounded-lg mb-6">
+                        <p class="text-neutral-800 font-medium">Key Finding</p>
+                        <p class="text-neutral-700 text-sm mt-1">
+                            High-dependence gig workers experience mental distress levels comparable to those with no paid work, while low-dependence workers (with additional employment) show significantly better mental health outcomes.
+                        </p>
+                    </div>
+                    
+                    <p class="text-neutral-700 mb-6">
+                        This groundbreaking study uses nationally representative UK data to reveal the hidden mental health costs of platform work dependence, challenging assumptions about gig economy flexibility.
+                    </p>
+                    
+                    <div class="flex flex-wrap gap-3">
+                        <a href="https://doi.org/10.1111/1468-4446.70028" class="inline-flex items-center px-5 py-2.5 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors text-sm font-medium">
+                            Read Full Paper
+                            <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6" />
+                            </svg>
+                        </a>
+                        <a href="#" class="inline-flex items-center px-5 py-2.5 border border-neutral-300 text-neutral-700 rounded-lg hover:bg-neutral-50 transition-colors text-sm font-medium">
+                            Policy Brief
+                        </a>
+                        <a href="#" class="inline-flex items-center px-5 py-2.5 text-primary-600 hover:text-primary-700 text-sm font-medium">
+                            Share
+                            <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.684 13.342C8.886 12.938 9 12.482 9 12c0-.482-.114-.938-.316-1.342m0 2.684a3 3 0 110-2.684m9.032 4.026a3 3 0 10-4.026-4.026m4.026 4.026a3 3 0 00-4.026-4.026" />
+                            </svg>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
+
+
 {{< /section-container >}}
 
-
-{{< section-container class="py-24 bg-purple-50" >}}
+{{< section-container class="py-24 bg-primary-50" >}}
     <div class="max-w-4xl mx-auto text-center">
-        <h2 class="text-3xl md:text-4xl font-bold mb-8 text-gray-800">Get in Touch</h2>
-        <p class="text-xl mb-12 text-gray-600 leading-relaxed">Join us in advancing equitable, evidence-based solutions for population health challenges worldwide</p>
+        <h2 class="text-3xl md:text-4xl font-bold mb-8 text-neutral-800">Get in Touch</h2>
+        <p class="text-xl mb-12 text-neutral-600 leading-relaxed">Join us in advancing equitable, evidence-based solutions for population health challenges worldwide</p>
         
         <div class="bg-white rounded-2xl shadow-lg p-10 max-w-3xl mx-auto">
             <div class="space-y-8">
                 <div>
-                    <h3 class="text-2xl font-semibold mb-6 text-purple-700">Contact Information</h3>
+                    <h3 class="text-2xl font-semibold mb-6 text-primary-700">Contact Information</h3>
                     <div class="space-y-4 text-lg">
-                        <p class="flex items-center justify-center text-gray-700">
+                        <p class="flex items-center justify-center text-neutral-700">
                             <span class="mr-3 text-2xl">📧</span>
-                            <a href="mailto:info@globalpophealth.org" class="text-purple-600 hover:text-purple-700 hover:underline">info@globalpophealth.org</a>
+                            <a href="mailto:info@globalpophealth.org" class="text-primary-600 hover:text-primary-700 hover:underline">info@globalpophealth.org</a>
                         </p>
-                        <p class="flex items-start justify-center text-gray-700">
+                        <p class="flex items-start justify-center text-neutral-700">
                             <span class="mr-3 text-2xl mt-1">📍</span>
-                            <span class="text-left">Manfield House, 1 Southampton Street<br>London, WC2R 0LR, United Kingdom</span>
+                            <span class="text-left">20 Wenlock Road, London, N1 7GU, United Kingdom</span>
                         </p>
                     </div>
                 </div>
                 
-                <div class="border-t border-gray-200 pt-8">
-                    <h4 class="text-xl font-semibold mb-4 text-purple-700">Collaboration Opportunities</h4>
-                    <p class="text-gray-600 leading-relaxed">
+                <div class="border-t border-neutral-200 pt-8">
+                    <h4 class="text-xl font-semibold mb-4 text-primary-700">Collaboration Opportunities</h4>
+                    <p class="text-neutral-600 leading-relaxed">
                         We welcome partnerships for research projects, policy consultations, capacity building programs, and access to our data and tools.
                     </p>
                 </div>
@@ -176,4 +106,3 @@ description: "Latest research insights and policy recommendations from the Globa
         </div>
     </div>
 {{< /section-container >}}
-
