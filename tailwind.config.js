@@ -13,8 +13,8 @@ module.exports = {
           heading: ['Plus Jakarta Sans', 'sans-serif'],
         },
         colors: {
-          primary: {
-            // Professional blue palette based on #2563eb (similar to Tailwind's blue-600)
+          primary: {    
+          // Professional blue palette based on #2563eb (similar to Tailwind's blue-600)
             50: '#eff6ff',
             100: '#dbeafe',
             200: '#bfdbfe',
@@ -28,8 +28,8 @@ module.exports = {
             900: '#1e3a8a',
             950: '#172554',
           },
-          secondary: {
-            // Modern green palette based on #10b981 (similar to Tailwind's emerald-500)
+          secondary: {  
+          // Modern green palette based on #10b981 (similar to Tailwind's emerald-500)
             50: '#f0fdf4',
             100: '#dcfce7',
             200: '#bbf7d0',
