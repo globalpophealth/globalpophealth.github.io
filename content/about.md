@@ -11,7 +11,7 @@ description: "Learn about the Global Population and Health Association - advanci
         <div class="max-w-4xl mx-auto bg-white rounded-xl shadow-lg border border-primary-100 p-10 md:p-12">
             <h2 class="text-3xl font-bold mb-6 text-neutral-900">Our Mission</h2>
             <p class="text-lg md:text-xl text-neutral-600 leading-relaxed">
-                The Global Population and Health Association (GPHA) promotes equitable, evidence-based solutions to global challenges at the nexus of population change and health. We unite researchers, policymakers, and practitioners to transform knowledge into action for healthier populations worldwide.
+                Our mission is to generate actionable knowledge at the intersection of population dynamics and changes, AI-driven social transformation, health and wellbeing disparities, and social policy and interventions, advancing evidence-based solutions that promote equity, resilience, and inclusive development.
             </p>
         </div>
     </div>

@@ -1,52 +1,52 @@
 ---
 title: "Research"
 layout: "company"
-description: "GPHA focuses on population dynamics and social transformation, encompassing migration, integration, and global mobility, addressing health, inequality, and society, and advancing change through social policy, governance, and targeted interventions."
+description: "GPHA is to generate actionable knowledge at the intersection of population dynamics and changes, AI-driven social transformation, health and wellbeing disparities, and social policy and interventions, advancing evidence-based solutions that promote equity, resilience, and inclusive development."
 ---
 
 {{< features-section 
     title="Our Research Areas"
-    description="  GPHA advances knowledge through four interconnected research pillars, addressing critical challenges in population health, migration, inequality, and social transformation to inform evidence-based policies and interventions globally."
+    description="We combine demographic science, computational methods, public health, and policy analysis to understand social change and design interventions that improve lives."
 >}}
 
 {{< feature
-    title="Population Dynamics and Social Transformation"
-    description="Understanding demographic shifts and their impact on society, labor markets, and family structures"
+    title="Population Dynamics and Changes"
+    description="We study fertility, mortality, aging, migration, and urbanization to understand how demographic shifts reshape societies, economies, and environments across regions."
     badge="Area"
     badgeColor="#115993"
     image="/images/area-1.jpg"
-    features="Aging societies, Fertility decline, Population structure changes"
+    features="Fertility, Mortality, Migration, Demographic modeling and projections"
     imagePosition="right"
 >}}
 
 {{< feature
-    title="Migration Integration and Global Mobility"
-    description="Examining migration patterns, integration processes, and the experiences of mobile populations"
+    title="AI and Social Transformation"
+    description="We examine how AI reshapes work, governance, and daily life, and develop responsible, human-centered AI that advances inclusion, transparency, and social good."
     badge="Area"
     badgeColor="#115993"
     image="/images/area-2.jpg"
-    features="International and internal migration flows and drivers,  Social integration of migrants, Skilled migration and knowledge transfer"
-    imagePosition="right"
+    features="AI impacts on labor and inequality, Algorithmic fairness and governance, Data science for social insights"
+    imagePosition="left"
 >}}
 
 {{< feature
-    title="Health Inequality and Society"
-    description="Addressing disparities in health outcomes and understanding social determinants of health"
+    title="Health and Wellbeing Disparities"
+    description="We analyze the social determinants of health and design strategies to reduce disparities across populations, geographies, and the life course."
     badge="Area"
     badgeColor="#115993"
     image="/images/area-3.jpg"
-    features="Social determinants of  health, Access to care and treatment outcomes, Unequal exposure to environmental health risks, Cumulative disadvantage and health trajectories"
+    features="Social determinants and life-course health, Mental health and chronic disease, Environmental and place-based health"
     imagePosition="right"
 >}}
 
 {{< feature
     title="Social Policy and Interventions"
-    description="Developing and evaluating evidence-based policies and programs for population wellbeing"
+    description="We evaluate policies and co-create interventions with communities and institutions to improve equity, resilience, and social protection."
     badge="Area"
     badgeColor="#115993"
     image="/images/area-4.jpg"
-    features="Impact assessment of social and health policies, Evidence-based program development and testing, Social protection and safety net effectiveness"
-    imagePosition="right"
+    features="Policy design and evaluation, Governance and institutional capacity, Community-based and digital interventions"
+    imagePosition="left"
 >}}
 
 

@@ -29,7 +29,7 @@ client_logos:
     primary_button_url="about"
     secondary_button_text="Join Us"
     secondary_button_url="join-us"
-    hero_image="/images/home.gif"
+    hero_image="/images/home.jpg"
     gradient-from="#dbeafe"
     gradient-to="#e7eff6"
     gradient-angle="180"
@@ -39,28 +39,28 @@ client_logos:
 
 {{< features-section 
     title="Our Mission & Approach"
-    description="GPHA focuses on population dynamics and social transformation, encompassing migration, integration, and global mobility, addressing health, inequality, and society, and advancing change through social policy, governance, and targeted interventions."
+    description="GPHA is to generate actionable knowledge at the intersection of population dynamics and changes, AI-driven social transformation, health and wellbeing disparities, and social policy and interventions, advancing evidence-based solutions that promote equity, resilience, and inclusive development."
 >}}
 
 {{< feature
     title="Research"
     description="We conduct cutting-edge research on population dynamics, demographic transitions, and their impact on global health outcomes, providing data-driven insights for policymakers."
-    badge="Research"
+    badge="Policy Impacts"
     badgeColor="#115993"
     image="/images/research.jpg"
     buttonText="Explore Research"
     buttonLink="research"
-    features="Population Dynamics and Social Transformation, Migration Integration and Global Mobility, Health Inequality and Society, Social Policy and Interventions"
+    features="Population Dynamics and Changes, AI and Social Transformation, Health and Wellbeing Disparities, Social Policy and Interventions"
     imagePosition="right"
 >}}
 
 {{< feature
     title="News & Events"
     description="We bring together researchers, policymakers, healthcare professionals, and communities to create sustainable solutions that address population health challenges worldwide."
-    badge="Partnership"
+    badge="Policy Impacts"
     badgeColor="#1363a3"
     image="/images/news.jpg"
-    buttonText="News"
+    buttonText="Explore News"
     buttonLink="news"
     features="International partnerships,Multi-sector engagement,Knowledge sharing,Capacity building"
     imagePosition="left"
@@ -69,10 +69,10 @@ client_logos:
 {{< feature
     title="Policy Innovation"
     description="We translate research into actionable policy recommendations, working with governments and organizations to implement evidence-based interventions that improve health outcomes."
-    badge="Impact"
+    badge="Policy Impacts"
     badgeColor="#2b73ac"
     image="/images/policy.jpg"
-    buttonText="Policy Work"
+    buttonText="Explore Policy Work"
     buttonLink="policy"
     features="Policy briefs,Government advisory,Implementation support,Impact assessment"
     imagePosition="right"
