@@ -44,9 +44,9 @@ client_logos:
 
 {{< feature
     title="Research"
-    description="We conduct cutting-edge research on population dynamics, demographic transitions, and their impact on global health outcomes, providing data-driven insights for policymakers."
-    badge=""
-    badgeColor="#ffffff"
+    description="We conduct cutting-edge research on population dynamics, providing data-driven insights for policymakers."
+    badge="Research"
+    badgeColor="#115993"
     image="/images/research.jpg"
     buttonText="Explore Research"
     buttonLink="research"
@@ -56,11 +56,11 @@ client_logos:
 
 {{< feature
     title="News & Events"
-    description="We bring together researchers, policymakers, healthcare professionals, and communities to create sustainable solutions that address population health challenges worldwide."
-    badge=""
-    badgeColor="#ffffff"
+    description="We bring together researchers, policymakers, healthcare professionals, and communities to create sustainable solutions."
+    badge="News"
+    badgeColor="#115993"
     image="/images/news.jpg"
-    buttonText="Explore News"
+    buttonText="Explore News & Events"
     buttonLink="news"
     features="International partnerships,Multi-sector engagement,Knowledge sharing,Capacity building"
     imagePosition="left"
@@ -68,11 +68,11 @@ client_logos:
 
 {{< feature
     title="Policy Impacts"
-    description="We translate research into actionable policy recommendations, working with governments and organizations to implement evidence-based interventions that improve health outcomes."
-    badge=""
-    badgeColor="#ffffff"
+    description="We translate research into actionable policy recommendations to implement evidence-based interventions."
+    badge="Policy"
+    badgeColor="#115993"
     image="/images/policy.jpg"
-    buttonText="Explore Policy Work"
+    buttonText="Explore Policy Impacts"
     buttonLink="policy"
     features="Policy briefs,Government advisory,Implementation support,Impact assessment"
     imagePosition="right"
