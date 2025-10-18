@@ -45,8 +45,8 @@ client_logos:
 {{< feature
     title="Research"
     description="We conduct cutting-edge research on population dynamics, demographic transitions, and their impact on global health outcomes, providing data-driven insights for policymakers."
-    badge="Policy Impacts"
-    badgeColor="#115993"
+    badge=""
+    badgeColor="#ffffff"
     image="/images/research.jpg"
     buttonText="Explore Research"
     buttonLink="research"
@@ -57,8 +57,8 @@ client_logos:
 {{< feature
     title="News & Events"
     description="We bring together researchers, policymakers, healthcare professionals, and communities to create sustainable solutions that address population health challenges worldwide."
-    badge="Policy Impacts"
-    badgeColor="#1363a3"
+    badge=""
+    badgeColor="#ffffff"
     image="/images/news.jpg"
     buttonText="Explore News"
     buttonLink="news"
@@ -67,10 +67,10 @@ client_logos:
 >}}
 
 {{< feature
-    title="Policy Innovation"
+    title="Policy Impacts"
     description="We translate research into actionable policy recommendations, working with governments and organizations to implement evidence-based interventions that improve health outcomes."
-    badge="Policy Impacts"
-    badgeColor="#2b73ac"
+    badge=""
+    badgeColor="#ffffff"
     image="/images/policy.jpg"
     buttonText="Explore Policy Work"
     buttonLink="policy"

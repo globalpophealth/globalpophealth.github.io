@@ -12,8 +12,8 @@ description: "GPHA is to generate actionable knowledge at the intersection of po
 {{< feature
     title="Population Dynamics and Changes"
     description="We study fertility, mortality, aging, migration, and urbanization to understand how demographic shifts reshape societies, economies, and environments across regions."
-    badge="Area"
-    badgeColor="#115993"
+    badge=""
+    badgeColor="#ffffff"
     image="/images/area-1.jpg"
     features="Fertility, Mortality, Migration, Demographic modeling and projections"
     imagePosition="right"
@@ -22,8 +22,8 @@ description: "GPHA is to generate actionable knowledge at the intersection of po
 {{< feature
     title="AI and Social Transformation"
     description="We examine how AI reshapes work, governance, and daily life, and develop responsible, human-centered AI that advances inclusion, transparency, and social good."
-    badge="Area"
-    badgeColor="#115993"
+    badge=""
+    badgeColor="#ffffff"
     image="/images/area-2.jpg"
     features="AI impacts on labor and inequality, Algorithmic fairness and governance, Data science for social insights"
     imagePosition="left"
@@ -32,8 +32,8 @@ description: "GPHA is to generate actionable knowledge at the intersection of po
 {{< feature
     title="Health and Wellbeing Disparities"
     description="We analyze the social determinants of health and design strategies to reduce disparities across populations, geographies, and the life course."
-    badge="Area"
-    badgeColor="#115993"
+    badge=""
+    badgeColor="#ffffff"
     image="/images/area-3.jpg"
     features="Social determinants and life-course health, Mental health and chronic disease, Environmental and place-based health"
     imagePosition="right"
@@ -42,8 +42,8 @@ description: "GPHA is to generate actionable knowledge at the intersection of po
 {{< feature
     title="Social Policy and Interventions"
     description="We evaluate policies and co-create interventions with communities and institutions to improve equity, resilience, and social protection."
-    badge="Area"
-    badgeColor="#115993"
+    badge=""
+    badgeColor="#ffffff"
     image="/images/area-4.jpg"
     features="Policy design and evaluation, Governance and institutional capacity, Community-based and digital interventions"
     imagePosition="left"
