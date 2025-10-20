@@ -1,0 +1,232 @@
+---
+title: "About"
+layout: "company"
+description: "Learn about the Global Population and Health Association - advancing evidence-based research and policy innovation at the nexus of population dynamics and human health."
+---
+
+{{< section-container class="bg-gradient-to-b from-primary-50 via-white to-white pt-20 pb-32" >}}
+    <div class="text-center">
+        <h1 class="text-4xl md:text-5xl font-bold mb-6 text-neutral-900">Advancing Global Population Health</h1>
+        <p class="text-xl text-neutral-600 mb-16">Bridging research and policy to address the critical intersections of population dynamics and human health</p>
+        <div class="max-w-4xl mx-auto bg-white rounded-xl shadow-lg border border-primary-100 p-10 md:p-12">
+            <h2 class="text-3xl font-bold mb-6 text-neutral-900">Our Mission</h2>
+            <p class="text-lg md:text-xl text-neutral-600 leading-relaxed">
+                Our mission is to generate actionable knowledge at the intersection of population dynamics and changes, AI-driven social transformation, health and wellbeing disparities, and social policy and interventions, advancing evidence-based solutions that promote equity, resilience, and inclusive development.
+            </p>
+        </div>
+    </div>
+{{< /section-container >}}
+
+{{< section-container class="py-24 bg-neutral-50" >}}
+    <div class="max-w-6xl mx-auto">
+        <h2 class="text-3xl md:text-4xl font-bold text-center mb-16 text-neutral-900">Core Objectives</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-10">
+            <div class="bg-white rounded-xl p-8 border-l-4 border-primary-500 shadow-md hover:shadow-lg transition-shadow">
+                <h3 class="text-xl font-bold mb-3 text-neutral-800">Foster Interdisciplinary Collaboration</h3>
+                <p class="text-neutral-600 leading-relaxed">We bring together demographers, sociologists, economists, and public health experts to create a rich ecosystem of knowledge and expertise.</p>
+            </div>
+            <div class="bg-white rounded-xl p-8 border-l-4 border-primary-500 shadow-md hover:shadow-lg transition-shadow">
+                <h3 class="text-xl font-bold mb-3 text-neutral-800">Bridge Research and Policy</h3>
+                <p class="text-neutral-600 leading-relaxed">We connect academic research with policy practice by actively engaging with governments, NGOs, and international organizations.</p>
+            </div>
+            <div class="bg-white rounded-xl p-8 border-l-4 border-primary-500 shadow-md hover:shadow-lg transition-shadow">
+                <h3 class="text-xl font-bold mb-3 text-neutral-800">Provide Research-Driven Insights</h3>
+                <p class="text-neutral-600 leading-relaxed">We deliver actionable intelligence that helps policymakers design strategies promoting health equity and demographic resilience.</p>
+            </div>
+            <div class="bg-white rounded-xl p-8 border-l-4 border-primary-500 shadow-md hover:shadow-lg transition-shadow">
+                <h3 class="text-xl font-bold mb-3 text-neutral-800">Support Knowledge Exchange</h3>
+                <p class="text-neutral-600 leading-relaxed">We invest in the global population health community through training programs, workshops, and collaborative platforms worldwide.</p>
+            </div>
+        </div>
+    </div>
+{{< /section-container >}}
+
+{{< section-container class="py-24" >}}
+    <div class="max-w-6xl mx-auto">
+        <h2 class="text-3xl md:text-4xl font-bold text-center mb-16 text-neutral-900">Our Approach</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div class="bg-gradient-to-br from-primary-50 to-white rounded-xl border border-primary-200 p-8 hover:shadow-xl transition-shadow">
+                <div class="w-12 h-12 bg-primary-500 rounded-lg flex items-center justify-center mb-4">
+                    <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
+                </div>
+                <h3 class="text-2xl font-bold mb-3 text-primary-700">Evidence-Based</h3>
+                <p class="text-neutral-700 text-base leading-relaxed">Grounded in rigorous scientific research and empirical evidence to ensure all our initiatives are backed by data</p>
+            </div>
+            <div class="bg-gradient-to-br from-secondary-50 to-white rounded-xl border border-secondary-200 p-8 hover:shadow-xl transition-shadow">
+                <div class="w-12 h-12 bg-secondary-500 rounded-lg flex items-center justify-center mb-4">
+                    <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z" />
+                    </svg>
+                </div>
+                <h3 class="text-2xl font-bold mb-3 text-secondary-700">Equity-Centered</h3>
+                <p class="text-neutral-700 text-base leading-relaxed">Prioritizing health equity and inclusion to ensure no population is left behind in our efforts</p>
+            </div>
+            <div class="bg-gradient-to-br from-accent-light/10 to-white rounded-xl border border-accent/30 p-8 hover:shadow-xl transition-shadow">
+                <div class="w-12 h-12 bg-accent rounded-lg flex items-center justify-center mb-4">
+                    <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
+                    </svg>
+                </div>
+                <h3 class="text-2xl font-bold mb-3 text-accent-dark">Collaborative</h3>
+                <p class="text-neutral-700 text-base leading-relaxed">Building partnerships across sectors to leverage diverse expertise and resources for maximum impact</p>
+            </div>
+            <div class="bg-gradient-to-br from-primary-100 to-white rounded-xl border border-primary-300 p-8 hover:shadow-xl transition-shadow">
+                <div class="w-12 h-12 bg-primary-600 rounded-lg flex items-center justify-center mb-4">
+                    <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
+                    </svg>
+                </div>
+                <h3 class="text-2xl font-bold mb-3 text-primary-700">Impact-Oriented</h3>
+                <p class="text-neutral-700 text-base leading-relaxed">Focused on tangible health improvements and measurable outcomes that make a real difference</p>
+            </div>
+        </div>
+    </div>
+{{< /section-container >}}
+
+{{< section-container class="py-24 bg-gradient-to-b from-white to-primary-50" >}}
+    <div class="max-w-6xl mx-auto">
+        <h2 class="text-3xl md:text-4xl font-bold text-center mb-16 text-neutral-900">Our Global Network</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div class="bg-white rounded-xl p-8 border border-neutral-200 hover:border-primary-300 hover:shadow-lg transition-all">
+                <div class="flex items-center mb-4">
+                    <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center mr-3">
+                        <svg class="w-5 h-5 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                        </svg>
+                    </div>
+                    <h3 class="text-2xl font-bold text-primary-700">Academic Institutions</h3>
+                </div>
+                <p class="text-neutral-700 text-base leading-relaxed">Partnering with leading universities and research centers worldwide to advance population health science</p>
+            </div>
+            <div class="bg-white rounded-xl p-8 border border-neutral-200 hover:border-primary-300 hover:shadow-lg transition-all">
+                <div class="flex items-center mb-4">
+                    <div class="w-10 h-10 bg-secondary-100 rounded-full flex items-center justify-center mr-3">
+                        <svg class="w-5 h-5 text-secondary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9" />
+                        </svg>
+                    </div>
+                    <h3 class="text-2xl font-bold text-secondary-700">UN Agencies</h3>
+                </div>
+                <p class="text-neutral-700 text-base leading-relaxed">Collaborating with WHO, UNFPA, UNICEF and other UN bodies to align with global health initiatives</p>
+            </div>
+            <div class="bg-white rounded-xl p-8 border border-neutral-200 hover:border-primary-300 hover:shadow-lg transition-all">
+                <div class="flex items-center mb-4">
+                    <div class="w-10 h-10 bg-accent-light/20 rounded-full flex items-center justify-center mr-3">
+                        <svg class="w-5 h-5 text-accent-dark" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
+                        </svg>
+                    </div>
+                    <h3 class="text-2xl font-bold text-accent-dark">Governments</h3>
+                </div>
+                <p class="text-neutral-700 text-base leading-relaxed">Working with health ministries and public agencies to inform evidence-based policy making</p>
+            </div>
+            <div class="bg-white rounded-xl p-8 border border-neutral-200 hover:border-primary-300 hover:shadow-lg transition-all">
+                <div class="flex items-center mb-4">
+                    <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center mr-3">
+                        <svg class="w-5 h-5 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z" />
+                        </svg>
+                    </div>
+                    <h3 class="text-2xl font-bold text-primary-700">Civil Society</h3>
+                </div>
+                <p class="text-neutral-700 text-base leading-relaxed">Engaging NGOs and community organizations to ensure grassroots perspectives are included</p>
+            </div>
+        </div>
+    </div>
+{{< /section-container >}}
+
+{{< section-container class="py-24 bg-neutral-50" >}}
+    <div class="max-w-6xl mx-auto">
+        <h2 class="text-3xl md:text-4xl font-bold text-center mb-16 text-neutral-900">What We Do</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <div class="bg-white rounded-xl p-8 border border-neutral-200 hover:border-primary-300 hover:shadow-xl transition-all group">
+                <div class="w-12 h-12 bg-primary-100 group-hover:bg-primary-200 rounded-lg flex items-center justify-center mb-4 transition-colors">
+                    <svg class="w-6 h-6 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" />
+                    </svg>
+                </div>
+                <h3 class="text-xl font-bold mb-4 text-neutral-800">Research & Analysis</h3>
+                <p class="text-neutral-600 leading-relaxed">Conducting cutting-edge research on population dynamics and health implications across multiple scales.</p>
+            </div>
+            <div class="bg-white rounded-xl p-8 border border-neutral-200 hover:border-secondary-300 hover:shadow-xl transition-all group">
+                <div class="w-12 h-12 bg-secondary-100 group-hover:bg-secondary-200 rounded-lg flex items-center justify-center mb-4 transition-colors">
+                    <svg class="w-6 h-6 text-secondary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                    </svg>
+                </div>
+                <h3 class="text-xl font-bold mb-4 text-neutral-800">Policy Engagement</h3>
+                <p class="text-neutral-600 leading-relaxed">Providing technical expertise and strategic guidance to policymakers at national and international levels.</p>
+            </div>
+            <div class="bg-white rounded-xl p-8 border border-neutral-200 hover:border-accent/50 hover:shadow-xl transition-all group">
+                <div class="w-12 h-12 bg-accent-light/20 group-hover:bg-accent-light/30 rounded-lg flex items-center justify-center mb-4 transition-colors">
+                    <svg class="w-6 h-6 text-accent-dark" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
+                    </svg>
+                </div>
+                <h3 class="text-xl font-bold mb-4 text-neutral-800">Convening & Dialogue</h3>
+                <p class="text-neutral-600 leading-relaxed">Organizing conferences and workshops that bring together diverse stakeholders.</p>
+            </div>
+            <div class="bg-white rounded-xl p-8 border border-neutral-200 hover:border-primary-300 hover:shadow-xl transition-all group">
+                <div class="w-12 h-12 bg-primary-100 group-hover:bg-primary-200 rounded-lg flex items-center justify-center mb-4 transition-colors">
+                    <svg class="w-6 h-6 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4m0 5c0 2.21-3.582 4-8 4s-8-1.79-8-4" />
+                    </svg>
+                </div>
+                <h3 class="text-xl font-bold mb-4 text-neutral-800">Data & Tools</h3>
+                <p class="text-neutral-600 leading-relaxed">Developing open-access databases and analytical tools for the global community.</p>
+            </div>
+            <div class="bg-white rounded-xl p-8 border border-neutral-200 hover:border-secondary-300 hover:shadow-xl transition-all group">
+                <div class="w-12 h-12 bg-secondary-100 group-hover:bg-secondary-200 rounded-lg flex items-center justify-center mb-4 transition-colors">
+                    <svg class="w-6 h-6 text-secondary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                    </svg>
+                </div>
+                <h3 class="text-xl font-bold mb-4 text-neutral-800">Capacity Building</h3>
+                <p class="text-neutral-600 leading-relaxed">Training programs and mentorship for researchers and practitioners worldwide.</p>
+            </div>
+            <div class="bg-white rounded-xl p-8 border border-neutral-200 hover:border-accent/50 hover:shadow-xl transition-all group">
+                <div class="w-12 h-12 bg-accent-light/20 group-hover:bg-accent-light/30 rounded-lg flex items-center justify-center mb-4 transition-colors">
+                    <svg class="w-6 h-6 text-accent-dark" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z" />
+                    </svg>
+                </div>
+                <h3 class="text-xl font-bold mb-4 text-neutral-800">Knowledge Translation</h3>
+                <p class="text-neutral-600 leading-relaxed">Transforming complex research into actionable policy recommendations.</p>
+            </div>
+        </div>
+    </div>
+{{< /section-container >}}
+
+{{< section-container class="py-24 bg-primary-50" >}}
+    <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-3xl md:text-4xl font-bold mb-8 text-neutral-800">Get in Touch</h2>
+        <p class="text-xl mb-12 text-neutral-600 leading-relaxed">Join us in advancing equitable, evidence-based solutions for population health challenges worldwide</p>
+        
+        <div class="bg-white rounded-2xl shadow-lg p-10 max-w-3xl mx-auto">
+            <div class="space-y-8">
+                <div>
+                    <h3 class="text-2xl font-semibold mb-6 text-primary-700">Contact Information</h3>
+                    <div class="space-y-4 text-lg">
+                        <p class="flex items-center justify-center text-neutral-700">
+                            <span class="mr-3 text-2xl">📧</span>
+                            <a href="mailto:info@globalpophealth.org" class="text-primary-600 hover:text-primary-700 hover:underline">info@globalpophealth.org</a>
+                        </p>
+                        <p class="flex items-start justify-center text-neutral-700">
+                            <span class="mr-3 text-2xl mt-1">📍</span>
+                            <span class="text-left">20 Wenlock Road, London, N1 7GU, United Kingdom</span>
+                        </p>
+                    </div>
+                </div>
+                
+                <div class="border-t border-neutral-200 pt-8">
+                    <h4 class="text-xl font-semibold mb-4 text-primary-700">Collaboration Opportunities</h4>
+                    <p class="text-neutral-600 leading-relaxed">
+                        We welcome partnerships for research projects, policy consultations, capacity building programs, and access to our data and tools.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+{{< /section-container >}}

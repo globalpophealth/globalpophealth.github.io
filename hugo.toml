@@ -1,0 +1,107 @@
+# Basic Configuration
+baseURL = "https://globalpophealth.github.io/"
+languageCode = "en-us"
+title = "Global Population and Health Association"
+theme = "hugo-saasify-theme"
+
+# Required Features
+pygmentsCodeFences = true  # Enable syntax highlighting
+pygmentsUseClasses = true
+enableEmoji = true        # Enable emoji support
+enableGitInfo = true      # Enable Git info for lastmod
+
+# Required Module Configuration
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.80.0"
+
+# Required Build Configuration
+[build]
+  writeStats = true      # Required for TailwindCSS
+
+# Required Markup Configuration
+[markup]
+  [markup.highlight]
+    noClasses = false
+    lineNos = true
+    codeFences = true
+  [markup.goldmark.renderer]
+    unsafe = true       # Allow HTML in markdown
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
+
+# Theme Parameters
+[params]
+  description = "An international nonprofit organization dedicated to advancing research, dialogue, and policy innovation on the intersections of population dynamics and human health"
+  author = "Global Population and Health Association"
+  logo = "/images/logo-long.png"      # Path to your logo
+  # Google Analytics ID (e.g., "G-XXXXXXXXXX")
+  googleAnalytics = "G-XXXXXXXXXX"  # Replace with your actual GA ID when ready
+
+  # Google Tag Manager ID (e.g., "GTM-XXXXXXX")
+  # Only enabled in production
+  googleTagManager = "GTM-XXXXXXX"  # Replace with your actual GTM ID when ready
+
+  # Header Configuration
+  [params.header]
+    background = "bg-white/95 backdrop-blur-sm"
+    border = "border-b border-gray-200"
+    
+    # Header Logo
+    [params.header.logo]
+      src = "/images/logo.png"
+    
+    # Header Buttons (optional)
+    [params.header.buttons]
+      [params.header.buttons.getStarted]
+        text = "Join Us"
+        url = "/join-us"
+
+  # Global CTA Configuration (optional)
+  [params.cta]
+    enable = true
+    title = "Join Our Mission"
+    description = "Help us advance equitable, evidence-based solutions to global health and population challenges"
+    [params.cta.primary_button]
+      text = "Join Us"
+      url = "/join-us"
+    [params.cta.secondary_button]
+      text = "Learn More"
+      url = "/about"
+
+  # Social Media Links (optional)
+  [params.social]
+    # linkedin = "https://linkedin.com/company/gpha"
+    # twitter = "https://twitter.com/gpha_org"
+    # bluesky = "https://bsky.app/profile/gpha.org"
+    # github = "https://github.com/gpha"
+    # You can add more social platforms as needed
+    # facebook = "https://facebook.com/gpha"
+    # youtube = "https://youtube.com/@gpha"
+
+# Navigation Menu
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 2
+  [[menu.main]]
+    name = "Research"
+    url = "/research"
+    weight = 3
+  [[menu.main]]
+    name = "News & Events"
+    url = "/news"
+    weight = 4
+  [[menu.main]]
+    name = "Policy Impacts"
+    url = "/policy"
+    weight = 5
+  
