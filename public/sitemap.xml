@@ -2,26 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://globalpophealth.github.io/about/</loc>
     <lastmod>2025-10-20T09:11:32+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://globalpophealth.github.io/research/ai-social-transformation/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://globalpophealth.github.io/categories/</loc>
+  </url><url>
+    <loc>https://globalpophealth.github.io/research/health-wellbeing-disparities/</loc>
+  </url><url>
+    <loc>https://globalpophealth.github.io/</loc>
     <lastmod>2025-10-20T09:11:32+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/join-us/</loc>
+    <loc>https://globalpophealth.github.io/join-us/</loc>
     <lastmod>2025-10-20T09:11:32+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/</loc>
+    <loc>https://globalpophealth.github.io/news/</loc>
     <lastmod>2025-10-20T09:11:32+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/policy/</loc>
+    <loc>https://globalpophealth.github.io/policy/</loc>
     <lastmod>2025-10-20T09:11:32+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/research/</loc>
-    <lastmod>2025-10-20T09:11:32+08:00</lastmod>
+    <loc>https://globalpophealth.github.io/research/population-dynamics/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://globalpophealth.github.io/research/</loc>
+  </url><url>
+    <loc>https://globalpophealth.github.io/research/social-policy-interventions/</loc>
+  </url><url>
+    <loc>https://globalpophealth.github.io/tags/</loc>
   </url>
 </urlset>

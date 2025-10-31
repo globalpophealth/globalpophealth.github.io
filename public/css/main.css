@@ -3058,6 +3058,9 @@ select {
 .h-4 {
   height: 1rem;
 }
+.h-40 {
+  height: 10rem;
+}
 .h-5 {
   height: 1.25rem;
 }
@@ -3132,6 +3135,9 @@ select {
 }
 .max-w-4xl {
   max-width: 56rem;
+}
+.max-w-5xl {
+  max-width: 64rem;
 }
 .max-w-6xl {
   max-width: 72rem;
@@ -3368,10 +3374,6 @@ select {
   --tw-border-opacity: 1;
   border-color: rgb(226 232 240 / var(--tw-border-opacity, 1));
 }
-.border-neutral-300 {
-  --tw-border-opacity: 1;
-  border-color: rgb(203 213 225 / var(--tw-border-opacity, 1));
-}
 .border-primary-100 {
   --tw-border-opacity: 1;
   border-color: rgb(219 234 254 / var(--tw-border-opacity, 1));
@@ -3395,10 +3397,6 @@ select {
 .border-secondary-500 {
   --tw-border-opacity: 1;
   border-color: rgb(34 197 94 / var(--tw-border-opacity, 1));
-}
-.border-warning {
-  --tw-border-opacity: 1;
-  border-color: rgb(245 158 11 / var(--tw-border-opacity, 1));
 }
 .border-white {
   --tw-border-opacity: 1;
@@ -3479,8 +3477,9 @@ select {
   --tw-bg-opacity: 1;
   background-color: rgb(34 197 94 / var(--tw-bg-opacity, 1));
 }
-.bg-warning-light\/10 {
-  background-color: rgb(252 211 77 / 0.1);
+.bg-secondary-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(22 163 74 / var(--tw-bg-opacity, 1));
 }
 .bg-white {
   --tw-bg-opacity: 1;
@@ -3586,6 +3585,9 @@ select {
 }
 .p-8 {
   padding: 2rem;
+}
+.p-\[1px\] {
+  padding: 1px;
 }
 .px-3 {
   padding-left: 0.75rem;
@@ -5642,10 +5644,6 @@ select {
   --tw-bg-opacity: 1;
   background-color: rgb(249 250 251 / var(--tw-bg-opacity, 1));
 }
-.hover\:bg-neutral-50:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgb(248 250 252 / var(--tw-bg-opacity, 1));
-}
 .hover\:bg-primary-100:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(219 234 254 / var(--tw-bg-opacity, 1));
@@ -5653,6 +5651,10 @@ select {
 .hover\:bg-primary-700:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(29 78 216 / var(--tw-bg-opacity, 1));
+}
+.hover\:bg-secondary-700:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(21 128 61 / var(--tw-bg-opacity, 1));
 }
 .hover\:text-gray-900:hover {
   --tw-text-opacity: 1;

@@ -17,6 +17,8 @@ description: "GPHA is to generate actionable knowledge at the intersection of po
     image="/images/area-1.jpg"
     features="Fertility, Mortality, Migration, Demographic modeling and projections"
     imagePosition="right"
+    buttonText="Learn More"
+    buttonLink="/research/population-dynamics"
 >}}
 
 {{< feature
@@ -27,6 +29,8 @@ description: "GPHA is to generate actionable knowledge at the intersection of po
     image="/images/area-2.jpg"
     features="AI impacts on labor and inequality, Algorithmic fairness and governance, Data science for social insights"
     imagePosition="left"
+    buttonText="Learn More"
+    buttonLink="/research/ai-social-transformation"
 >}}
 
 {{< feature
@@ -37,6 +41,8 @@ description: "GPHA is to generate actionable knowledge at the intersection of po
     image="/images/area-3.jpg"
     features="Social determinants and life-course health, Mental health and chronic disease, Environmental and place-based health"
     imagePosition="right"
+    buttonText="Learn More"
+    buttonLink="/research/health-wellbeing-disparities"
 >}}
 
 {{< feature
@@ -47,6 +53,8 @@ description: "GPHA is to generate actionable knowledge at the intersection of po
     image="/images/area-4.jpg"
     features="Policy design and evaluation, Governance and institutional capacity, Community-based and digital interventions"
     imagePosition="left"
+    buttonText="Learn More"
+    buttonLink="/research/social-policy-interventions"
 >}}
 
 

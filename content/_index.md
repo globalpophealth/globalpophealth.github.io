@@ -49,8 +49,11 @@ client_logos:
     badgeColor="#115993"
     image="/images/research.jpg"
     buttonText="Explore Research"
-    buttonLink="research"
-    features="Population Dynamics and Changes, AI and Social Transformation, Health and Wellbeing Disparities, Social Policy and Interventions"
+    buttonLink="/research/"
+    features=`- [Population Dynamics and Changes](/research/population-dynamics/)
+- [AI and Social Transformation](/research/ai-social-transformation/)
+- [Health and Wellbeing Disparities](/research/health-wellbeing-disparities/)
+- [Social Policy and Interventions](/research/social-policy-interventions/)`
     imagePosition="right"
 >}}
 

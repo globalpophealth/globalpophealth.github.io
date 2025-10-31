@@ -70,60 +70,73 @@ description: "Latest research insights and policy recommendations from the Globa
             </div>
         </div>
 
-        <!-- Singapore FWA Study -->
-        <div class="mb-12">
-            <div class="bg-white rounded-xl shadow-lg overflow-hidden">
-                <div class="bg-gradient-to-r from-secondary-500 to-secondary-600 p-1">
-                    <div class="bg-white p-6">
-                        <div class="flex items-center mb-4">
-                            <span class="px-3 py-1 bg-secondary-100 text-secondary-700 rounded-full text-sm font-medium">RESEARCH</span>
-                            <span class="ml-3 text-neutral-500">February 2025</span>
+        <!-- Singapore: Tripartite Guidelines on Flexible Work Arrangement Requests (TG-FWAR) -->
+<div class="mb-12">
+    <div class="bg-white rounded-xl shadow-lg overflow-hidden">
+	<div class="p-[1px] bg-gradient-to-r from-secondary-500 to-secondary-600 rounded-2xl shadow-lg">
+            <div class="bg-white p-6 rounded-2xl">
+                <div class="flex items-center mb-4">
+                    <span class="px-3 py-1 bg-secondary-100 text-secondary-700 rounded-full text-sm font-medium">POLICY UPDATE</span>
+                    <span class="ml-3 text-neutral-500">December 2024</span>
+                </div>
+
+                <h3 class="text-xl font-semibold mb-4 text-neutral-800">
+                    Singapore Implements Tripartite Guidelines on Flexible Work Arrangement Requests (TG-FWAR)
+                </h3>
+
+                <div class="grid md:grid-cols-2 gap-6">
+                    <div>
+                        <p class="text-neutral-700 mb-4">
+                            Singapore has officially implemented nationwide guidelines enabling employees to formally request flexible work arrangements — marking a major shift in workplace policy and support for work-life balance.
+                        </p>
+
+                        <div class="bg-secondary-50 border-l-4 border-secondary-500 p-4 rounded-lg">
+                            <h4 class="font-semibold text-secondary-900 mb-2">Key Requirements:</h4>
+                            <ul class="space-y-1 text-secondary-800 text-sm">
+                                <li>• Employees may formally request FWAs</li>
+                                <li>• Employers must consider requests fairly</li>
+                                <li>• Employers must respond within 2 months</li>
+                                <li>• Reasons needed only when rejecting on valid business grounds</li>
+                            </ul>
                         </div>
-                        
-                        <h3 class="text-xl font-semibold mb-4 text-neutral-800">Flexible Work Arrangements Boost Fertility Intentions in Singapore</h3>
-                        
-                        <div class="grid md:grid-cols-2 gap-6">
-                            <div>
-                                <p class="text-neutral-700 mb-4">
-                                    Our latest study with NUS reveals that flexible working arrangements significantly increase young Singaporeans' intentions to have children - offering a potential solution to declining birth rates across Asia.
-                                </p>
-                                
-                                <div class="bg-secondary-50 border-l-4 border-secondary-500 p-4 rounded-lg">
-                                    <h4 class="font-semibold text-secondary-900 mb-2">Key Findings:</h4>
-                                    <ul class="space-y-1 text-secondary-800 text-sm">
-                                        <li>• FWAs increase fertility intentions among unmarried workers</li>
-                                        <li>• Effects strongest for women and professional occupations</li>
-                                        <li>• Work-family conflict identified as key mediator</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            
-                            <div>
-                                <h4 class="font-semibold mb-3 text-neutral-800">Policy Recommendations:</h4>
-                                <ul class="space-y-2 text-neutral-700 text-sm">
-                                    <li class="flex items-start">
-                                        <span class="text-secondary-600 mr-2">▸</span>
-                                        <span>Mandate FWA options for all eligible positions</span>
-                                    </li>
-                                    <li class="flex items-start">
-                                        <span class="text-secondary-600 mr-2">▸</span>
-                                        <span>Target support for young professionals</span>
-                                    </li>
-                                    <li class="flex items-start">
-                                        <span class="text-secondary-600 mr-2">▸</span>
-                                        <span>Address work-family conflict through policy design</span>
-                                    </li>
-                                </ul>
-                                
-                                <div class="mt-4 text-sm text-neutral-600">
-                                    <p>Published in European Journal of Population</p>
-                                </div>
-                            </div>
+                    </div>
+
+                    <div>
+                        <h4 class="font-semibold mb-3 text-neutral-800">Guidance for Employers:</h4>
+                        <ul class="space-y-2 text-neutral-700 text-sm">
+                            <li class="flex items-start">
+                                <span class="text-secondary-600 mr-2">▸</span>
+                                <span>Create clear FWA request procedures and communicate them to staff</span>
+                            </li>
+                            <li class="flex items-start">
+                                <span class="text-secondary-600 mr-2">▸</span>
+                                <span>Ensure workflows support flexible arrangements productively</span>
+                            </li>
+                            <li class="flex items-start">
+                                <span class="text-secondary-600 mr-2">▸</span>
+                                <span>Use fair and consistent evaluation standards</span>
+                            </li>
+                        </ul>
+
+                        <div class="mt-4 text-sm text-neutral-600">
+                            <p>Policy by: Ministry of Manpower, NTUC & SNEF</p>
+                            <p>Took effect 1 December 2024</p>
+                        </div>
+
+                        <div class="mt-4">
+                            <a href="https://www.mom.gov.sg/employment-practices/tripartite-guidelines-on-flexible-work-arrangement-requests"
+                               target="_blank"
+                               class="inline-flex items-center px-5 py-2.5 bg-secondary-600 text-white rounded-lg hover:bg-secondary-700 transition-colors text-sm font-medium">
+                                Read Official Guidelines →
+                            </a>
                         </div>
                     </div>
                 </div>
+
             </div>
         </div>
+    </div>
+</div>
 
 
         <!-- Media Coverage -->
