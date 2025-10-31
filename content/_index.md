@@ -29,7 +29,7 @@ client_logos:
     primary_button_url="about"
     secondary_button_text="Join Us"
     secondary_button_url="join-us"
-    hero_image="/images/homebg.png"
+    hero_image="/images/homebg.png?v=2"
     gradient-from="#dbeafe"
     gradient-to="#e7eff6"
     gradient-angle="180"
