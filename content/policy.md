@@ -1,214 +1,131 @@
 ---
 title: "Policy Impact"
 layout: "company"
-description: "Latest research insights and policy recommendations from the Global Population and Health Association"
+description: "Translating research into actionable policy for governments, organisations, and communities worldwide"
 ---
 
 {{< section-container class="py-16 bg-gradient-to-b from-primary-50 to-white" >}}
-    <div class="max-w-6xl mx-auto text-center">
-        <h1 class="text-4xl md:text-5xl font-bold mb-6 text-gray-900">Policy Impact</h1>
-        <p class="text-xl text-neutral-600 max-w-3xl mx-auto">
-            Translating cutting-edge research into actionable policy recommendations for governments, organizations, and communities worldwide
-        </p>
-    </div>
+<div class="max-w-6xl mx-auto text-center">
+  <h1 class="text-4xl md:text-5xl font-bold mb-6 text-gray-900">Policy Impact</h1>
+  <p class="text-xl text-neutral-600 max-w-3xl mx-auto">
+    Turning research insights into practical policy recommendations that shape healthier, fairer, and more resilient societies.
+  </p>
+</div>
 {{< /section-container >}}
 
 {{< section-container class="py-12" >}}
-    <div class="max-w-6xl mx-auto">
-        <!-- Featured Story -->
-        <div class="mb-16">
-            <div class="bg-gradient-to-r from-primary-600 to-primary-700 rounded-2xl p-1">
-                <div class="bg-white rounded-2xl p-8">
-                    <div class="flex items-center mb-4">
-                        <span class="px-3 py-1 bg-danger-light text-danger-dark rounded-full text-sm font-medium">FEATURED</span>
-                        <span class="ml-3 text-neutral-500">September 2025</span>
-                    </div>
-                    <h2 class="text-3xl font-bold mb-4 text-neutral-900">One Day of Work Per Week Sufficient for Mental Health Benefits</h2>
-                    
-                    <div class="grid md:grid-cols-2 gap-8">
-                        <div>
-                            <p class="text-neutral-700 mb-4">
-                                Our groundbreaking research, conducted with the University of Cambridge, has redefined understanding of the relationship between work and wellbeing. The study of over 70,000 UK residents reveals that just 8 hours of work per week provides the full mental health benefits of employment.
-                            </p>
-                            <div class="bg-primary-50 border-l-4 border-primary-500 p-4 rounded-lg mb-4">
-                                <h3 class="font-semibold text-primary-900 mb-2">Key Finding:</h3>
-                                <p class="text-primary-800">Moving from unemployment to just 8 hours of paid work per week reduces mental health problems by 30% - with no additional benefits from working more hours.</p>
-                            </div>
-                            <p class="text-sm text-neutral-600 italic">Published in Social Science & Medicine</p>
-                        </div>
-                        <div>
-                            <h3 class="text-xl font-semibold mb-3 text-neutral-800">Policy Implications:</h3>
-                            <ul class="space-y-2 text-neutral-700">
-                                <li class="flex items-start">
-                                    <span class="text-primary-600 mr-2">▸</span>
-                                    <span>Challenges the 40-hour workweek standard</span>
-                                </li>
-                                <li class="flex items-start">
-                                    <span class="text-primary-600 mr-2">▸</span>
-                                    <span>Supports redistribution of work in automated economies</span>
-                                </li>
-                                <li class="flex items-start">
-                                    <span class="text-primary-600 mr-2">▸</span>
-                                    <span>Informs universal basic income debates</span>
-                                </li>
-                                <li class="flex items-start">
-                                    <span class="text-primary-600 mr-2">▸</span>
-                                    <span>Guides mental health and employment policies</span>
-                                </li>
-                            </ul>
-                            <div class="mt-4">
-                                <a href="https://www.cam.ac.uk/stories/employment-dosage" target="_blank" class="text-primary-600 hover:text-primary-700 font-medium inline-flex items-center">
-                                    Read more at Cambridge University 
-                                    <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-                                    </svg>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+<div class="max-w-6xl mx-auto">
 
-        <!-- Singapore: Tripartite Guidelines on Flexible Work Arrangement Requests (TG-FWAR) -->
-<div class="mb-12">
-    <div class="bg-white rounded-xl shadow-lg overflow-hidden">
-	<div class="p-[1px] bg-gradient-to-r from-secondary-500 to-secondary-600 rounded-2xl shadow-lg">
-            <div class="bg-white p-6 rounded-2xl">
-                <div class="flex items-center mb-4">
-                    <span class="px-3 py-1 bg-secondary-100 text-secondary-700 rounded-full text-sm font-medium">POLICY UPDATE</span>
-                    <span class="ml-3 text-neutral-500">December 2024</span>
-                </div>
+<h2 class="text-2xl font-bold mb-8 text-neutral-900">Recent Policy Highlights</h2>
 
-                <h3 class="text-xl font-semibold mb-4 text-neutral-800">
-                    Singapore Implements Tripartite Guidelines on Flexible Work Arrangement Requests (TG-FWAR)
-                </h3>
+<div class="grid md:grid-cols-3 gap-6">
 
-                <div class="grid md:grid-cols-2 gap-6">
-                    <div>
-                        <p class="text-neutral-700 mb-4">
-                            Singapore has officially implemented nationwide guidelines enabling employees to formally request flexible work arrangements — marking a major shift in workplace policy and support for work-life balance.
-                        </p>
+<!-- 1️⃣ Blue — NUS Flexible Work & Fertility -->
+<a href="https://news.nus.edu.sg/nus-study-link-flexible-working-arrangements-plans-children-unmarried-singaporeans" target="_blank"
+   class="block bg-white rounded-xl shadow hover:shadow-lg transition overflow-hidden">
+  <img src="/images/policy/fwa-fertility-nus.jpg" class="w-full h-40 object-cover" alt="NUS study on flexible work and fertility intentions">
+  <div class="p-4">
+    <span class="text-xs text-primary-600 font-semibold uppercase">Highlights</span>
+    <h3 class="mt-1 font-semibold text-neutral-800 text-sm leading-tight">
+      NUS study links flexible work arrangements to fertility plans among young Singaporeans
+    </h3>
+    <p class="mt-1 text-xs text-neutral-600">Feb 2025 • Research Impact</p>
+    <span class="text-primary-600 text-xs font-medium flex items-center mt-2">Read Article →</span>
+  </div>
+</a>
 
-                        <div class="bg-secondary-50 border-l-4 border-secondary-500 p-4 rounded-lg">
-                            <h4 class="font-semibold text-secondary-900 mb-2">Key Requirements:</h4>
-                            <ul class="space-y-1 text-secondary-800 text-sm">
-                                <li>• Employees may formally request FWAs</li>
-                                <li>• Employers must consider requests fairly</li>
-                                <li>• Employers must respond within 2 months</li>
-                                <li>• Reasons needed only when rejecting on valid business grounds</li>
-                            </ul>
-                        </div>
-                    </div>
+<!-- 2️⃣ Green — FT Health -->
+<a href="https://www.ft.com/content/cc935a03-385e-4df9-bdea-7133d68e13f0" target="_blank"
+   class="block bg-white rounded-xl shadow hover:shadow-lg transition overflow-hidden">
+  <img src="/images/policy/ft-sharing-work.jpg" class="w-full h-40 object-cover" alt="Financial Times article on work sharing and mental health">
+  <div class="p-4">
+    <span class="text-xs text-secondary-600 font-semibold uppercase">FT Health</span>
+    <h3 class="mt-1 font-semibold text-neutral-800 text-sm leading-tight">
+      Sharing work could ease mental-health impact of pandemic
+    </h3>
+    <p class="mt-1 text-xs text-neutral-600">Jul 2020 • Health & Wellbeing</p>
+    <span class="text-secondary-600 text-xs font-medium flex items-center mt-2">Read Article →</span>
+  </div>
+</a>
 
-                    <div>
-                        <h4 class="font-semibold mb-3 text-neutral-800">Guidance for Employers:</h4>
-                        <ul class="space-y-2 text-neutral-700 text-sm">
-                            <li class="flex items-start">
-                                <span class="text-secondary-600 mr-2">▸</span>
-                                <span>Create clear FWA request procedures and communicate them to staff</span>
-                            </li>
-                            <li class="flex items-start">
-                                <span class="text-secondary-600 mr-2">▸</span>
-                                <span>Ensure workflows support flexible arrangements productively</span>
-                            </li>
-                            <li class="flex items-start">
-                                <span class="text-secondary-600 mr-2">▸</span>
-                                <span>Use fair and consistent evaluation standards</span>
-                            </li>
-                        </ul>
+<!-- 3️⃣ Blue — BBC -->
+<a href="https://www.bbc.com/worklife/article/20230125-how-widespread-could-the-four-day-workweek-really-be" target="_blank"
+   class="block bg-white rounded-xl shadow hover:shadow-lg transition overflow-hidden">
+  <img src="/images/policy/bbc-four-day-week.jpg" class="w-full h-40 object-cover" alt="BBC Worklife four-day workweek feature">
+  <div class="p-4">
+    <span class="text-xs text-primary-600 font-semibold uppercase">BBC Worklife</span>
+    <h3 class="mt-1 font-semibold text-neutral-800 text-sm leading-tight">
+      How widespread could the four-day workweek really be?
+    </h3>
+    <p class="mt-1 text-xs text-neutral-600">Jan 2023 • Work & Wellbeing</p>
+    <span class="text-primary-600 text-xs font-medium flex items-center mt-2">Read Article →</span>
+  </div>
+</a>
 
-                        <div class="mt-4 text-sm text-neutral-600">
-                            <p>Policy by: Ministry of Manpower, NTUC & SNEF</p>
-                            <p>Took effect 1 December 2024</p>
-                        </div>
+<!-- 4️⃣ Green — CNN -->
+<a href="https://edition.cnn.com/2022/08/01/business/4-day-work-week-uk-trial" target="_blank"
+   class="block bg-white rounded-xl shadow hover:shadow-lg transition overflow-hidden">
+  <img src="/images/policy/cnn-four-day-week.jpg" class="w-full h-40 object-cover" alt="CNN UK four-day workweek trial">
+  <div class="p-4">
+    <span class="text-xs text-secondary-600 font-semibold uppercase">CNN Business</span>
+    <h3 class="mt-1 font-semibold text-neutral-800 text-sm leading-tight">
+      How the world's biggest four-day workweek trial changed work forever
+    </h3>
+    <p class="mt-1 text-xs text-neutral-600">Aug 2022 • Business & Society</p>
+    <span class="text-secondary-600 text-xs font-medium flex items-center mt-2">Read Feature →</span>
+  </div>
+</a>
 
-                        <div class="mt-4">
-                            <a href="https://www.mom.gov.sg/employment-practices/tripartite-guidelines-on-flexible-work-arrangement-requests"
-                               target="_blank"
-                               class="inline-flex items-center px-5 py-2.5 bg-secondary-600 text-white rounded-lg hover:bg-secondary-700 transition-colors text-sm font-medium">
-                                Read Official Guidelines →
-                            </a>
-                        </div>
-                    </div>
-                </div>
+<!-- 5️⃣ Blue — The Guardian -->
+<a href="https://www.theguardian.com/society/2019/jun/19/working-one-day-week-improves-mental-health-study-suggests" target="_blank"
+   class="block bg-white rounded-xl shadow hover:shadow-lg transition overflow-hidden">
+  <img src="/images/policy/guardian-one-day-work.jpg" class="w-full h-40 object-cover" alt="The Guardian one-day workweek study">
+  <div class="p-4">
+    <span class="text-xs text-primary-600 font-semibold uppercase">The Guardian</span>
+    <h3 class="mt-1 font-semibold text-neutral-800 text-sm leading-tight">
+      Just one day of work a week improves mental health, study suggests
+    </h3>
+    <p class="mt-1 text-xs text-neutral-600">Jun 2019 • Research Feature</p>
+    <span class="text-primary-600 text-xs font-medium flex items-center mt-2">Read Article →</span>
+  </div>
+</a>
 
-            </div>
-        </div>
-    </div>
+<!-- 6️⃣ Green — Bloomberg -->
+<a href="https://www.bloomberg.com/news/articles/2019-06-18/one-day-of-work-a-week-is-most-effective-dose-for-mental-health-study-says" target="_blank"
+   class="block bg-white rounded-xl shadow hover:shadow-lg transition overflow-hidden">
+  <img src="/images/policy/bloomberg-one-day-work.jpg" class="w-full h-40 object-cover" alt="Bloomberg report on one-day workweek benefits">
+  <div class="p-4">
+    <span class="text-xs text-secondary-600 font-semibold uppercase">Bloomberg</span>
+    <h3 class="mt-1 font-semibold text-neutral-800 text-sm leading-tight">
+      One day of work a week is the most effective dose for mental health, study says
+    </h3>
+    <p class="mt-1 text-xs text-neutral-600">Jun 2019 • Health & Work</p>
+    <span class="text-secondary-600 text-xs font-medium flex items-center mt-2">Read Article →</span>
+  </div>
+</a>
 </div>
 
-
-        <!-- Media Coverage -->
-        <div class="mb-12">
-            <h2 class="text-2xl font-bold mb-6 text-neutral-900">In the Media</h2>
-            
-            <div class="grid md:grid-cols-3 gap-6">
-                <div class="bg-white rounded-lg border border-neutral-200 hover:border-primary-300 transition-colors p-4">
-                    <div class="text-primary-600 mb-2">
-                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z" />
-                        </svg>
-                    </div>
-                    <p class="font-semibold text-neutral-800 mb-1">BBC Worklife</p>
-                    <p class="text-sm text-neutral-600 mb-2">"How widespread could the four-day workweek really be?"</p>
-                    <a href="#" class="text-primary-600 text-sm hover:text-primary-700 font-medium">Read article →</a>
-                </div>
-                
-                <div class="bg-white rounded-lg border border-neutral-200 hover:border-primary-300 transition-colors p-4">
-                    <div class="text-primary-600 mb-2">
-                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
-                        </svg>
-                    </div>
-                    <p class="font-semibold text-neutral-800 mb-1">Cambridge University</p>
-                    <p class="text-sm text-neutral-600 mb-2">"One day of paid work sufficient for mental health"</p>
-                    <a href="#" class="text-primary-600 text-sm hover:text-primary-700 font-medium">Read article →</a>
-                </div>
-                
-                <div class="bg-white rounded-lg border border-neutral-200 hover:border-primary-300 transition-colors p-4">
-                    <div class="text-primary-600 mb-2">
-                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9" />
-                        </svg>
-                    </div>
-                    <p class="font-semibold text-neutral-800 mb-1">NUS News</p>
-                    <p class="text-sm text-neutral-600 mb-2">"FWAs linked to fertility intentions in Singapore"</p>
-                    <a href="#" class="text-primary-600 text-sm hover:text-primary-700 font-medium">Read article →</a>
-                </div>
-            </div>
-        </div>
-
+</div>
+</div>
 {{< /section-container >}}
 
 {{< section-container class="py-24 bg-primary-50" >}}
-    <div class="max-w-4xl mx-auto text-center">
-        <h2 class="text-3xl md:text-4xl font-bold mb-8 text-neutral-800">Get in Touch</h2>
-        <p class="text-xl mb-12 text-neutral-600 leading-relaxed">Join us in advancing equitable, evidence-based solutions for population health challenges worldwide</p>
-        
-        <div class="bg-white rounded-2xl shadow-lg p-10 max-w-3xl mx-auto">
-            <div class="space-y-8">
-                <div>
-                    <h3 class="text-2xl font-semibold mb-6 text-primary-700">Contact Information</h3>
-                    <div class="space-y-4 text-lg">
-                        <p class="flex items-center justify-center text-neutral-700">
-                            <span class="mr-3 text-2xl">📧</span>
-                            <a href="mailto:info@globalpophealth.org" class="text-primary-600 hover:text-primary-700 hover:underline">info@globalpophealth.org</a>
-                        </p>
-                        <p class="flex items-start justify-center text-neutral-700">
-                            <span class="mr-3 text-2xl mt-1">📍</span>
-                            <span class="text-left">20 Wenlock Road, London, N1 7GU, United Kingdom</span>
-                        </p>
-                    </div>
-                </div>
-                
-                <div class="border-t border-neutral-200 pt-8">
-                    <h4 class="text-xl font-semibold mb-4 text-primary-700">Collaboration Opportunities</h4>
-                    <p class="text-neutral-600 leading-relaxed">
-                        We welcome partnerships for research projects, policy consultations, capacity building programs, and access to our data and tools.
-                    </p>
-                </div>
-            </div>
-        </div>
+<div class="max-w-4xl mx-auto text-center">
+  <h2 class="text-3xl md:text-4xl font-bold mb-8 text-neutral-800">Get in Touch</h2>
+  <p class="text-xl mb-12 text-neutral-600 leading-relaxed">
+    Collaborate with us to translate research into impactful policy outcomes across health, work, and wellbeing.
+  </p>
+
+  <div class="bg-white rounded-2xl shadow-lg p-10 max-w-3xl mx-auto">
+    <h3 class="text-2xl font-semibold mb-6 text-primary-700">Contact Information</h3>
+    <p class="text-neutral-700 mb-2">📧 <a href="mailto:info@globalpophealth.org" class="text-primary-600 hover:underline">info@globalpophealth.org</a></p>
+    <p class="text-neutral-700 mb-8">📍 20 Wenlock Road, London N1 7GU, United Kingdom</p>
+    <div class="border-t border-neutral-200 pt-6">
+      <h4 class="text-xl font-semibold mb-3 text-primary-700">Collaboration Opportunities</h4>
+      <p class="text-neutral-600 text-sm">
+        We welcome partnerships for policy design, research translation, and capacity-building initiatives.
+      </p>
     </div>
+  </div>
+</div>
 {{< /section-container >}}
