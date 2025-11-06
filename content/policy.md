@@ -13,7 +13,7 @@ description: "Translating research into actionable policy for governments, organ
 </div>
 {{< /section-container >}}
 
-{{< section-container class="py-12 bg-gradient-to-b from-primary-50 to-blue-50" >}}
+{{< section-container class="py-12 bg-white" >}}
 <div class="max-w-6xl mx-auto">
 
 <h2 class="text-2xl font-bold mb-8 text-neutral-900">Recent Policy Highlights</h2>
