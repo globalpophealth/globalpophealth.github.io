@@ -1,0 +1,7 @@
+# Hugo build artifacts
+public/
+resources/
+hugo_stats.json
+
+# macOS system files
+.DS_Store
