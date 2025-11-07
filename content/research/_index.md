@@ -6,7 +6,7 @@ description: "GPHA is to generate actionable knowledge at the intersection of po
 
 {{< section-container class="py-16 bg-gradient-to-b from-primary-50 to-white" >}}
 <div class="max-w-6xl mx-auto text-center">
-  <h1 class="text-4xl md:text-5xl tracking-tight font-semibold mb-6 text-gray-900">Our Research Areas</h1>
+  <h1 class="text-4xl md:text-5xl tracking-tight font-bold mb-6 text-gray-900">Our Research Areas</h1>
   <p class="text-xl text-neutral-600 max-w-3xl mx-auto">
     We combine demographic science, computational methods, public health, and policy analysis to understand social change and design interventions that improve lives.
   </p>
