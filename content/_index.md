@@ -19,7 +19,6 @@ client_logos:
   - name: "Work and Family Researchers Network"
     logo: "/images/logos/wfrn.svg"
     url: "https://www.wfrn.org/"
-    
 ---
 
 {{< hero
@@ -31,6 +30,7 @@ client_logos:
     secondary_button_url="join-us"
     background_image="/images/homebg.png?v=2"
     overlay_opacity="50"
+    class="h-40 md:h-56 bg-contain bg-no-repeat bg-center"
 >}}
 
 {{< section-container class="py-24 bg-white" >}}
@@ -42,7 +42,6 @@ client_logos:
   </div>
 {{< /section-container >}}
 
-
 {{< section-container class="py-16 bg-gradient-to-b from-primary-50 to-white" >}}
   <div class="max-w-6xl mx-auto">
     <h2 class="text-3xl md:text-4xl font-bold mb-8 text-neutral-900">Explore Our Work</h2>
@@ -51,10 +50,12 @@ client_logos:
 
       <!-- Research -->
       <div class="bg-white rounded-xl shadow hover:shadow-lg transition overflow-hidden">
-        <img src="/images/research.jpg" alt="Research" class="w-full h-44 object-cover">
+        <img src="/images/research.jpg" class="w-full h-44 object-cover" alt="Research">
         <div class="p-5">
           <span class="text-xs text-primary-600 font-semibold uppercase">Research</span>
-          <h3 class="mt-2 text-neutral-900 font-semibold text-lg leading-tight">We conduct cutting-edge research to generate evidence that informs global public health and population policies.</h3>
+          <h3 class="mt-2 text-neutral-900 font-semibold text-lg leading-tight">
+  		Research generates evidence to guide policies in population dynamics and global health.
+          </h3>
 
           <ul class="mt-3 space-y-1 text-sm text-neutral-700 list-disc list-inside">
             <li>Population Dynamics and Changes</li>
@@ -64,19 +65,20 @@ client_logos:
           </ul>
 
           <a href="/research/" class="inline-flex items-center mt-4 px-4 py-2 rounded-lg bg-primary-600 text-white text-sm font-semibold hover:bg-primary-700 transition">
-            Explore Research
-            <span class="ml-1">→</span>
+            Explore Research →
           </a>
         </div>
       </div>
 
-      <!-- News & Events -->
+      <!-- News -->
       <div class="bg-white rounded-xl shadow hover:shadow-lg transition overflow-hidden">
-        <img src="/images/news.jpg" alt="News & Events" class="w-full h-44 object-cover">
+        <img src="/images/news.jpg" class="w-full h-44 object-cover" alt="News & Events">
         <div class="p-5">
           <span class="text-xs text-primary-600 font-semibold uppercase">News & Events</span>
-          <h3 class="mt-2 text-neutral-900 font-semibold text-lg leading-tight">We convene scholars, practitioners, and global leaders to advance collaborative action in population and health.</h3>
-          
+          <h3 class="mt-2 text-neutral-900 font-semibold text-lg leading-tight">
+		Scholarship and practice converge to promote collaboration and knowledge exchange worldwide.
+          </h3>
+
           <ul class="mt-3 space-y-1 text-sm text-neutral-700 list-disc list-inside">
             <li>Global research conferences</li>
             <li>Cross-sector collaborations</li>
@@ -85,18 +87,19 @@ client_logos:
           </ul>
 
           <a href="/news/" class="inline-flex items-center mt-4 px-4 py-2 rounded-lg bg-primary-600 text-white text-sm font-semibold hover:bg-primary-700 transition">
-            Explore News & Events
-            <span class="ml-1">→</span>
+            Explore News & Events →
           </a>
         </div>
       </div>
 
-      <!-- Policy Impacts -->
+      <!-- Policy -->
       <div class="bg-white rounded-xl shadow hover:shadow-lg transition overflow-hidden">
-        <img src="/images/policy.jpg" alt="Policy Impacts" class="w-full h-44 object-cover">
+        <img src="/images/policy.jpg" class="w-full h-44 object-cover" alt="Policy Impacts">
         <div class="p-5">
           <span class="text-xs text-primary-600 font-semibold uppercase">Policy Impacts</span>
-          <h3 class="mt-2 text-neutral-900 font-semibold text-lg leading-tight">We translate research into practical recommendations to guide evidence-based decision-making worldwide.</h3>
+          <h3 class="mt-2 text-neutral-900 font-semibold text-lg leading-tight">
+		Evidence is translated into recommendations that guide population and health policy.
+          </h3>
 
           <ul class="mt-3 space-y-1 text-sm text-neutral-700 list-disc list-inside">
             <li>Policy briefs & reports</li>
@@ -106,8 +109,7 @@ client_logos:
           </ul>
 
           <a href="/policy/" class="inline-flex items-center mt-4 px-4 py-2 rounded-lg bg-primary-600 text-white text-sm font-semibold hover:bg-primary-700 transition">
-            Explore Policy Impacts
-            <span class="ml-1">→</span>
+            Explore Policy Impacts →
           </a>
         </div>
       </div>
@@ -117,5 +119,3 @@ client_logos:
 {{< /section-container >}}
 
 {{< client-logos animate="true" >}}
-
-

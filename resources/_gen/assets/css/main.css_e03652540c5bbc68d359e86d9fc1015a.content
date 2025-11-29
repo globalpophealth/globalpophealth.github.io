@@ -3529,11 +3529,17 @@ select {
 .to-white {
   --tw-gradient-to: #fff var(--tw-gradient-to-position);
 }
+.bg-contain {
+  background-size: contain;
+}
 .bg-cover {
   background-size: cover;
 }
 .bg-center {
   background-position: center;
+}
+.bg-no-repeat {
+  background-repeat: no-repeat;
 }
 .object-cover {
   -o-object-fit: cover;
@@ -3663,9 +3669,6 @@ select {
 }
 .font-mono {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-}
-.font-serif {
-  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
 }
 .text-2xl {
   font-size: 1.5rem;
@@ -5770,6 +5773,10 @@ select {
 
   .md\:hidden {
     display: none;
+  }
+
+  .md\:h-56 {
+    height: 14rem;
   }
 
   .md\:grid-cols-2 {
